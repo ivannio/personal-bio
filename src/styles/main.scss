@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
+
+body {
+  background-image: url('../images/memphis-colorful.png');
+}
+
+.name-header {
+  display: block;
+  text-align: center;
+}
+
+.name-text {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.5em;
+  background-color: rgba(255, 255, 255, 0.623);
+}
