@@ -1,0 +1,20 @@
+{
+  "project1": {
+    "title": "Not Pinterest",
+    "technologiesUsed": "",
+    "imageUrl": "something.jpeg",
+    "description": "Some nice words"
+  },
+  "project2": {
+    "title": "project title",
+    "technologiesUsed": "Technologies Used",
+    "imageUrl": "something.jpeg",
+    "description": "Some nice words"
+  },
+  "project3": {
+    "title": "project title",
+    "technologiesUsed": "Technologies Used",
+    "imageUrl": "something.jpeg",
+    "description": "Some nice words"
+  }
+}
