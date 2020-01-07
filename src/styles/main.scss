@@ -14,6 +14,10 @@ hr {
   background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
+i {
+  font-size: 10em;
+}
+
 .header {
   display: block;
   text-align: center;
@@ -65,19 +69,20 @@ hr {
 
 .project-link {
   font-family: 'DM Serif Display', serif;
-  font-size: 1.75em;
-  background-color: rgb(255, 255, 255);
+  font-size: 1.5em;
+  background-color: rgba(255, 255, 255, 0.877);
 }
 
 .project-description {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.74);
+  background-color: rgba(255, 255, 255, 0.877);
   color: rgb(18, 18, 65);
 }
 
 .projects-container {
-  margin: 5em;
+  margin-left: 20%;
+  margin-right: 20%;
   box-shadow: 4px 4px 16px -4px rgba(0,0,0,0.75);
 }
 
@@ -94,8 +99,26 @@ hr {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
+  margin-bottom: 2em;
 }
 
-i {
-  font-size: 10em;
+.footer-text {
+  font-family: 'DM Serif Display', serif;
+  font-size: 3em;
+  color: white;
+}
+
+.page-footer {
+  background-color: black;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 1em;
+}
+
+.footer-icon {
+  max-width: 3em;
 }
