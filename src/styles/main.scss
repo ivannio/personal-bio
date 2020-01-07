@@ -14,6 +14,10 @@ hr {
   background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
+i {
+  font-size: 10em;
+}
+
 .header {
   display: block;
   text-align: center;
@@ -94,8 +98,26 @@ hr {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
+  margin-bottom: 2em;
 }
 
-i {
-  font-size: 10em;
+.footer-text {
+  font-family: 'DM Serif Display', serif;
+  font-size: 3em;
+  color: white;
+}
+
+.page-footer {
+  background-color: black;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 1em;
+}
+
+.footer-icon {
+  max-width: 3em;
 }
