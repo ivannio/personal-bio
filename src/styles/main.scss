@@ -7,7 +7,7 @@ body {
   background-image: url('../images/memphis-colorful.png');
 }
 
-.name-header {
+.header {
   display: block;
   text-align: center;
 }
@@ -15,6 +15,11 @@ body {
 .name-text {
   font-family: 'DM Serif Display', serif;
   font-size: 2.5em;
+  background-color: rgba(255, 255, 255, 0.623);
+}
+.header-text {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2em;
   background-color: rgba(255, 255, 255, 0.623);
 }
 
@@ -45,6 +50,35 @@ body {
   background-color: rgba(255, 255, 255, 0.685);
   box-shadow: 4px 4px 16px -4px rgba(0,0,0,0.75);
   margin: 5em;
-  width: 35%;
-  padding: 2em;
+  max-width: 500px;
+  padding-top: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.project-link {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.75em;
+  background-color: rgba(255, 255, 255, 0.74);
+}
+
+.project-description {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.74);
+  color: rgb(18, 18, 65);
+}
+
+.projects-container {
+  margin: 5em;
+  box-shadow: 4px 4px 16px -4px rgba(0,0,0,0.75);
+}
+
+.project-tagline {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.20em;
+}
+
+.carousel-img {
+  max-height: 45em;
 }

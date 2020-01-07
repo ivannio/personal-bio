@@ -1,20 +1,20 @@
 {
   "project1": {
-    "title": "Not Pinterest",
-    "technologiesUsed": "",
-    "imageUrl": "something.jpeg",
-    "description": "Some nice words"
+    "title": "Solar System",
+    "imageUrl": "https://i.imgur.com/qXwCx2d.png",
+    "description": "This solar system informational dashboard makes use of jQuery which allowed me to easily and efficiently select elements and attach event listeners.",
+    "url": "https://solar-system-eae30.firebaseapp.com/"
   },
   "project2": {
-    "title": "project title",
-    "technologiesUsed": "Technologies Used",
-    "imageUrl": "something.jpeg",
-    "description": "Some nice words"
+    "title": "Not Pinterest",
+    "imageUrl": "https://i.imgur.com/WWG9dXe.png",
+    "description": "Modeled after the popular link and image sharing site, Not Pinterest leverages firebase to perform CRUD (create, read, update, delete) functionality on a data set.",
+    "url": "https://pinterest-4ee0c.firebaseapp.com/"   
   },
   "project3": {
-    "title": "project title",
-    "technologiesUsed": "Technologies Used",
-    "imageUrl": "something.jpeg",
-    "description": "Some nice words"
+    "title": "Nautilus Explorer",
+    "imageUrl": "https://i.imgur.com/ne1Xc4g.jpg",
+    "description": "The Nautilus Explorer dashboard is an exercise in data driven appliactions. As part of a study group, I used firebase to perform CRUD functionality on a complex data set.",
+    "url": "https://nautilus-explorer-part2.firebaseapp.com"   
   }
 }
