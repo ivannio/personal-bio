@@ -69,19 +69,20 @@ i {
 
 .project-link {
   font-family: 'DM Serif Display', serif;
-  font-size: 1.75em;
-  background-color: rgb(255, 255, 255);
+  font-size: 1.5em;
+  background-color: rgba(255, 255, 255, 0.877);
 }
 
 .project-description {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.74);
+  background-color: rgba(255, 255, 255, 0.877);
   color: rgb(18, 18, 65);
 }
 
 .projects-container {
-  margin: 5em;
+  margin-left: 20%;
+  margin-right: 20%;
   box-shadow: 4px 4px 16px -4px rgba(0,0,0,0.75);
 }
 
