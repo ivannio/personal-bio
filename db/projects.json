@@ -3,18 +3,28 @@
     "title": "Solar System",
     "imageUrl": "https://i.imgur.com/qXwCx2d.png",
     "description": "This solar system informational dashboard makes use of jQuery which allowed me to easily and efficiently select elements and attach event listeners.",
-    "url": "https://solar-system-eae30.firebaseapp.com/"
+    "url": "https://solar-system-eae30.firebaseapp.com/",
+    "githubUrl": "https://github.com/ivannio/solar-system"
   },
   "project2": {
-    "title": "Not Pinterest",
-    "imageUrl": "https://i.imgur.com/WWG9dXe.png",
-    "description": "Modeled after the popular link and image sharing site, Not Pinterest leverages firebase to perform CRUD (create, read, update, delete) functionality on a data set.",
-    "url": "https://pinterest-4ee0c.firebaseapp.com/"   
+    "title": "FreeLancer",
+    "imageUrl": "https://i.imgur.com/rIC2aVv.png",
+    "description": "FreeLancer is a rennaissance fair planning app. My portion of this group project was to build out the food items page by using firebase to drive the app with data.",
+    "url": "https://freelancer-redux.firebaseapp.com/",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-renaissance-fair"   
   },
   "project3": {
     "title": "Nautilus Explorer",
     "imageUrl": "https://i.imgur.com/ne1Xc4g.jpg",
-    "description": "The Nautilus Explorer dashboard is an exercise in data driven appliactions. As part of a study group, I used firebase to perform CRUD functionality on a complex data set.",
-    "url": "https://nautilus-explorer-part2.firebaseapp.com"   
+    "description": "Part two of a CRUD focused firebase project, Nautilus Explorer saw our group working with a more complex data structure, requiring us to pull multiple axios calls together.",
+    "url": "https://nautilus-explorer-part2.firebaseapp.com",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-nautilus-explorer"   
+  },
+  "project4": {
+    "title": "Not Pinterest",
+    "imageUrl": "https://i.imgur.com/WWG9dXe.png",
+    "description": "Modeled after the popular link and image sharing site, Not Pinterest leverages firebase to perform CRUD (create, read, update, delete) functionality on a data set.",
+    "url": "https://pinterest-4ee0c.firebaseapp.com/",
+    "githubUrl": "https://github.com/ivannio/pinterest"
   }
 }
