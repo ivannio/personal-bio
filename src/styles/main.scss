@@ -70,13 +70,11 @@ i {
 .project-link {
   font-family: 'DM Serif Display', serif;
   font-size: 1.5em;
-  background-color: rgba(255, 255, 255, 0.877);
 }
 
 .project-description {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.877);
   color: rgb(18, 18, 65);
 }
 
@@ -93,6 +91,12 @@ i {
 
 .carousel-img {
   max-height: 45em;
+}
+
+.carousel-caption {
+  background-color: rgba(255, 255, 255, 0.863);
+  padding: 1em;
+  border: 0.3em solid black;
 }
 
 .technologies-container {
@@ -121,4 +125,8 @@ i {
 
 .footer-icon {
   max-width: 3em;
+}
+
+.project-github-icon {
+  max-width: 2.5em;
 }
