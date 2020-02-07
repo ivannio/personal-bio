@@ -1,30 +1,42 @@
 {
   "project1": {
-    "title": "Solar System",
-    "imageUrl": "https://i.imgur.com/qXwCx2d.png",
-    "description": "This solar system informational dashboard makes use of jQuery which allowed me to easily and efficiently select elements and attach event listeners.",
-    "url": "https://solar-system-eae30.firebaseapp.com/",
-    "githubUrl": "https://github.com/ivannio/solar-system"
+    "title": "Collectathon",
+    "imageUrl": "https://i.imgur.com/TxyRsMt.png",
+    "description": "Named after the item hunting classics of the N64 era, Collectathon is a video game collection tracker that allows users to search for games to add to their collections. Users can also import their digital Steam libraries.",
+    "url": "https://collectathon-b1ce1.firebaseapp.com/",
+    "githubUrl": "https://github.com/ivannio/collectathon"    
   },
   "project2": {
-    "title": "FreeLancer",
-    "imageUrl": "https://i.imgur.com/rIC2aVv.png",
-    "description": "FreeLancer is a rennaissance fair planning app. My portion of this group project was to build out the food items page by using firebase to drive the app with data.",
-    "url": "https://freelancer-redux.firebaseapp.com/",
-    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-renaissance-fair"   
-  },
-  "project3": {
-    "title": "Nautilus Explorer",
-    "imageUrl": "https://i.imgur.com/ne1Xc4g.jpg",
-    "description": "Part two of a CRUD focused firebase project, Nautilus Explorer saw our group working with a more complex data structure, requiring us to pull multiple axios calls together.",
-    "url": "https://nautilus-explorer-part2.firebaseapp.com",
-    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-nautilus-explorer"   
-  },
-  "project4": {
     "title": "Not Pinterest",
     "imageUrl": "https://i.imgur.com/WWG9dXe.png",
     "description": "Modeled after the popular link and image sharing site, Not Pinterest leverages firebase to perform CRUD (create, read, update, delete) functionality on a data set.",
     "url": "https://pinterest-4ee0c.firebaseapp.com/",
-    "githubUrl": "https://github.com/ivannio/pinterest"
+    "githubUrl": "https://github.com/ivannio/pinterest"       
+  },
+  "project3": {
+    "title": "Solar System",
+    "imageUrl": "https://i.imgur.com/qXwCx2d.png",
+    "description": "This solar system informational dashboard makes use of jQuery which allowed me to easily and efficiently select elements and attach event listeners.",
+    "url": "https://solar-system-eae30.firebaseapp.com/",
+    "githubUrl": "https://github.com/ivannio/solar-system"       
+  },
+  "project4": {
+    "title": "FreeLancer",
+    "imageUrl": "https://i.imgur.com/rIC2aVv.png",
+    "description": "FreeLancer is a rennaissance fair planning app. My portion of this group project was to build out the food items page by using firebase to drive the app with data.",
+    "url": "https://freelancer-redux.firebaseapp.com/",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-renaissance-fair"  
+  },
+  "project5": {
+    "title": "Nautilus Explorer",
+    "imageUrl": "https://i.imgur.com/ne1Xc4g.jpg",
+    "description": "Part two of a CRUD focused firebase project, Nautilus Explorer saw our group inheriting a codebase and working with a more complex data structure, requiring us to pull multiple axios calls together.",
+    "url": "https://nautilus-explorer-part2.firebaseapp.com",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-nautilus-explorer"  
   }
 }
+
+
+    
+
+    
