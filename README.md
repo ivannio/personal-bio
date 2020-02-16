@@ -1,9 +1,6 @@
 # personal-bio-site
 ## Description
- This project is a personal BIO site on which I will give information on my backgroud, list technologies I have become proficient in, and showcase the projects I have completed.
-
-## Screenshots
-![front](https://raw.githubusercontent.com/ivannio/personal-bio/master/src/images/personal-screenshot.png)
+ This is my personal bio site. The puprose of the aite is to list technologies I have become proficient in, showcase some projects I have completed, and list my contact information.
 
 ## How To Run
 * Follow this link to the deployed firebase project:
