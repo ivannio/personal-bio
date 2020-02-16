@@ -44,15 +44,15 @@ i {
 .about-me-section {
   display: flex;
   flex-flow: row wrap;
-  justify-content: center;
+  justify-content: space-evenly;
+  margin-right: 2em;
+  margin-left: 2em;
 }
 
 .about-me-photo {
   margin-top: 3em;
-  margin-left: 1.5em;
-  margin-right: 1.5em;
-  max-width: 90%;
   border: 0.3em solid white;
+  max-width: 100%;
   box-shadow: 4px 4px 16px -4px rgba(0,0,0,0.75);
   border-radius: 50%;
 }
@@ -67,15 +67,14 @@ i {
   width: 100%;
   font-family: 'Roboto', sans-serif;
   font-size: 1.20em;
+  text-align: center;
 }
 
 .about-me-blurb {
   background-color: rgba(255, 255, 255, 0.685);
   box-shadow: 4px 4px 16px -4px rgba(0,0,0,0.75);
   margin-top: 3em;
-  margin-left: 1.5em;
-  margin-right: 1.5em;
-  width: 30em;
+  max-width: 35em;
   padding-top: 2em;
   padding-left: 2em;
   padding-right: 2em;
